@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a keen inte
 
 ## About Me
 
-- 🎓 I have a degree in [Your Major] from [Your University].
+- 🎓 I have a degree in MBA Marketing from Vidyasagar University.
 - 🧠 I enjoy working with data to solve complex problems and make informed decisions.
-- 🌟 I'm proficient in:
+- 🌟 I'm proficient in: SQL, Python, Excel, Tableau and Power BI.
 
 ### Programming Languages
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
